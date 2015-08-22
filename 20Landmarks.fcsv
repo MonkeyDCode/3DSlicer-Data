@@ -1,0 +1,23 @@
+# Markups fiducial file version = 4.4
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+vtkMRMLMarkupsFiducialNode_0,9.10049,-56.5894,140.883,0,0,0,1,1,1,0,Nasion,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_1,11.079,-51.7364,86.2303,0,0,0,1,1,1,0,Punto A,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_2,9.95906,-51.7074,50.7593,0,0,0,1,1,1,0,Punto B,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_3,8.79077,-57.6739,27.3393,0,0,0,1,1,1,0,Menton,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_4,8.36372,-52.1103,34.7808,0,0,0,1,1,1,0,Pogonion,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_5,8.73565,-53.4598,29.6557,0,0,0,1,1,1,0,Gnathion,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_6,-21.853,-66.4901,117.424,0,0,0,1,1,1,0,Orbitale R,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_7,38.8581,-60.1416,116.906,0,0,0,1,1,1,0,Orbitale L,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_8,62.8895,-121.732,66.6533,0,0,0,1,1,1,0,Gonion L,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_9,-35.9919,-129.18,61.1903,0,0,0,1,1,1,0,Gonion R,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_10,61.2927,-70.4584,144.929,0,0,0,1,1,1,0,Frontozygomatic L,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_11,-40.0866,-78.6304,143.288,0,0,0,1,1,1,0,Frontozygomatc R,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_12,69.0295,-83.4415,111.418,0,0,0,1,1,1,0,Zygomatic L,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_13,-44.9565,-84.8737,111.732,0,0,0,1,1,1,0,Zygomatic R,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_14,55.7163,-93.085,89.0036,0,0,0,1,1,1,0,R1 L,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_15,-31.8232,-100.378,89.5374,0,0,0,1,1,1,0,R2 R,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_16,13.1528,-49.7608,98.4514,0,0,0,1,1,1,0,ANS,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_17,9.41206,-108.873,115.037,0,0,0,1,1,1,0,PNS,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_18,67.462,-120.548,115.878,0,0,0,1,1,1,0,Condylion L,,vtkMRMLModelNode11
+vtkMRMLMarkupsFiducialNode_19,-46.2496,-129.792,114.273,0,0,0,1,1,1,0,Condylion R,,vtkMRMLModelNode11
